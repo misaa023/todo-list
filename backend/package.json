@@ -1,14 +1,15 @@
 {
-  "name": "back-todolist",
-  "version": "1.0.0",
-  "description": "app todo list",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^5.1.0"
-  }
+    "name": "back-todolist",
+    "version": "1.0.0",
+    "description": "app todo list",
+    "main": "index.js",
+    "scripts": {
+        "start": "node server.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^5.1.0"
+    }
 }
